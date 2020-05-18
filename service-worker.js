@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/novi-react/precache-manifest.81952a726fe2544a2ac52b6160711ba2.js"
+  "/novi-react/precache-manifest.a3a356f0d2a7d1480c84172ca69db444.js"
 );
 
 self.addEventListener('message', (event) => {

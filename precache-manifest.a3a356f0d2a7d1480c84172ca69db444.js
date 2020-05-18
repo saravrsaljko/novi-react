@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3b5ebe8cef5f49004c5686535abfa0e",
+    "revision": "e25836004d74707eb765391773074032",
     "url": "/novi-react/index.html"
   },
   {
-    "revision": "5100c32e91c98cfc5c54",
+    "revision": "9353015f884076bb8052",
     "url": "/novi-react/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/novi-react/static/js/2.ab99bac9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5100c32e91c98cfc5c54",
-    "url": "/novi-react/static/js/main.882fcd9f.chunk.js"
+    "revision": "9353015f884076bb8052",
+    "url": "/novi-react/static/js/main.7efe180c.chunk.js"
   },
   {
     "revision": "32b86730187c4a470b78",
