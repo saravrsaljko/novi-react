@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/novi-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/novi-react/static/js/main.882fcd9f.chunk.js",
+    "main.js.map": "/novi-react/static/js/main.882fcd9f.chunk.js.map",
+    "runtime-main.js": "/novi-react/static/js/runtime-main.15a9b549.js",
+    "runtime-main.js.map": "/novi-react/static/js/runtime-main.15a9b549.js.map",
+    "static/js/2.ab99bac9.chunk.js": "/novi-react/static/js/2.ab99bac9.chunk.js",
+    "static/js/2.ab99bac9.chunk.js.map": "/novi-react/static/js/2.ab99bac9.chunk.js.map",
+    "index.html": "/novi-react/index.html",
+    "precache-manifest.81952a726fe2544a2ac52b6160711ba2.js": "/novi-react/precache-manifest.81952a726fe2544a2ac52b6160711ba2.js",
+    "service-worker.js": "/novi-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/novi-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ab99bac9.chunk.js.LICENSE.txt": "/novi-react/static/js/2.ab99bac9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/novi-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15a9b549.js",
+    "static/js/2.ab99bac9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.882fcd9f.chunk.js"
+  ]
+}
